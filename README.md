@@ -1,4 +1,4 @@
-<h1>E ai, sou o Rafael Moreira!</h1>
+<h1>E aí, eu sou o Rafael Moreira!</h1>
 <div style="display:inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" />
