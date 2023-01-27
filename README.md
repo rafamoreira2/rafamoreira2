@@ -4,6 +4,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
 </div>
 <br>
 <img src="https://camo.githubusercontent.com/58d5dde6ecaedbc5d3f12acb892ad868d9851920d9c8f1e097b6e48be50cc22c/68747470733a2f2f692e696d6775722e636f6d2f6d3135484272772e676966" height="60px"/>
