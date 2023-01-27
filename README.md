@@ -11,7 +11,7 @@
 
 <ul>
   <li>FRONT-END | ESCOLA ALURA💻</li>
-  <li>Sempre buscando ser um desenvolvedor melhor.💪</li>
+  <li>Sempre buscando ser uma pessoa melhor.💪</li>
   <li>Atualmente estudando React.</li>
 </ul>
 
