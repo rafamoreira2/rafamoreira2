@@ -10,9 +10,9 @@
 <img src="https://camo.githubusercontent.com/58d5dde6ecaedbc5d3f12acb892ad868d9851920d9c8f1e097b6e48be50cc22c/68747470733a2f2f692e696d6775722e636f6d2f6d3135484272772e676966" height="60px"/>
 
 <ul>
-  <li>Estudante de front end na Alura💻</li>
-  <li>Procurando pela primeira oportunidade de estágio👀</li>
-  <li>Atualmente estudando JS.</li>
+  <li>FRONT-END | ESCOLA ALURA💻</li>
+  <li>Sempre buscando ser um desenvolvedor melhor.💪</li>
+  <li>Atualmente estudando React.</li>
 </ul>
 
 <p>Eu publico meus projetos de estudo aqui no github, e as vezes volto para adicionar algo novo neles.😝</p>
